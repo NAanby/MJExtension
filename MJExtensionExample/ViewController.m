@@ -18,6 +18,7 @@
     [super viewDidLoad];
     //git使用123456学习
     //123456789asdfgh
+    NSLog(@"aaaaa");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
